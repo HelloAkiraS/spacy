@@ -13,6 +13,6 @@ doc = nlp(mpbc_3p)
 print("1st exercise answer ->",  [ent for ent in doc.ents if ent.label_ == "PER"])
 
 # EXERCISE 2 - Excract all pronouns from the same charpter. Extra: count how many times they repeat.
-print("2nd exercise answer ->", list(Counter(token.text for token in doc if token.pos_ == "PRON").items()))
+print("2nd exercise answer ->", list(Counter(token.text for token in doc if token.pos_ == "PRON")))
 
-# EXERCISE 3 - Display a Dependency Tree of a random sentence from the charpter. Plus: customize visualizers settings.
+# EXERCISE 3 - Display a Dependency Tree of a random sentence from the charpter. Plus: customize visualizers settings.j
