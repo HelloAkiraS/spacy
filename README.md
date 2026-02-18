@@ -65,11 +65,13 @@ Run the script directly via terminal.
     python main.py
 
 Then, open your browser at `http://localhost:5001` to see the dependency tree visualization.
+
 *Note: default port for displacy is 5000. You can change it by setting a different "port" value onto displacy's serve method.*
 
 ## 👨‍💻 Author
 
 **HelloAkiraS**
+
 *Student at Fatec Rubens Lara*
 
 ---
