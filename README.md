@@ -1,6 +1,6 @@
 # NLP Course Exercises - IME USP 📚🇧🇷
 
-> practical exercises on Natural Language Processing using spaCy, based on the curriculum of the IME-USP (University of São Paulo) course.
+> Practical exercises on Natural Language Processing using spaCy, based on the curriculum of the IME-USP (University of São Paulo) course.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![spaCy](https://img.shields.io/badge/NLP-spaCy-green?style=flat&logo=spacy)
