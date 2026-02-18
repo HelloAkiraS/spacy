@@ -2,7 +2,7 @@
 
 > Practical exercises on Natural Language Processing using spaCy, based on the curriculum of the IME-USP (University of São Paulo) course.
 
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
 ![spaCy](https://img.shields.io/badge/NLP-spaCy-green?style=flat&logo=spacy)
 ![Status](https://img.shields.io/badge/Status-Study-yellow)
 
