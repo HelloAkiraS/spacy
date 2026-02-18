@@ -32,13 +32,13 @@ The script performs three main linguistic tasks:
 
 This repository focuses on **basic concepts**. If you are looking for a more complex, Object-Oriented application of spaCy with custom cleaning pipelines and rule-based extractors, please check out my other repository:
 
-👉 **[Semantic Recipe Extractor](https://github.com/your-username/Semantic_Recipe_Extractor)**
+👉 **[Semantic Recipe Extractor](https://github.com/HelloAkiraS/Semantic_Recipe_Extractor)**
 
 *There, I apply these concepts to build a real-world ETL pipeline for culinary data.*
 
 ## 🛠️ Tech Stack
 
-* **Python 3**
+* **Python 3.12
 * **spaCy** (Model: `pt_core_news_sm`)
 * **DisplaCy** (Visualization)
 
@@ -46,7 +46,7 @@ This repository focuses on **basic concepts**. If you are looking for a more com
 
 1.  **Clone the repo:**
     
-    git clone [https://github.com/your-username/nlp-ime-usp-exercises.git](https://github.com/your-username/nlp-ime-usp-exercises.git)
+    git clone [https://github.com/HelloAkiraS/Spacy.git](https://github.com/HelloAkiraS/Spacy.git)
 
 2.  **Install spaCy:**
     
@@ -65,10 +65,11 @@ Run the script directly via terminal.
     python main.py
 
 Then, open your browser at `http://localhost:5001` to see the dependency tree visualization.
+*Note: default port for displacy is 5000. You can change it by setting a different "port" value onto displacy's serve method.*
 
 ## 👨‍💻 Author
 
-**Enzo**
+**HelloAkiraS**
 *Student at Fatec Rubens Lara*
 
 ---
