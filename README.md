@@ -46,7 +46,7 @@ This repository focuses on **basic concepts**. If you are looking for a more com
 
 1.  **Clone the repo:**
     
-    git clone [https://github.com/HelloAkiraS/Spacy.git](https://github.com/HelloAkiraS/Spacy.git)
+    git clone [https://github.com/HelloAkiraS/Studying_spaCy.git](https://github.com/HelloAkiraS/Studying_spaCy.git)
 
 2.  **Install spaCy:**
     
