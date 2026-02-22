@@ -38,7 +38,7 @@ This repository focuses on **basic concepts**. If you are looking for a more com
 
 ## 🛠️ Tech Stack
 
-* **Python 3.12
+* **Python** 3.12
 * **spaCy** (Model: `pt_core_news_sm`)
 * **DisplaCy** (Visualization)
 
